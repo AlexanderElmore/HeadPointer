@@ -1,0 +1,15 @@
+C:\Users\Cynth\HeadPointerApp\HeadPointer\bin\Debug\net8.0-windows\HeadPointer.exe
+C:\Users\Cynth\HeadPointerApp\HeadPointer\bin\Debug\net8.0-windows\HeadPointer.deps.json
+C:\Users\Cynth\HeadPointerApp\HeadPointer\bin\Debug\net8.0-windows\HeadPointer.runtimeconfig.json
+C:\Users\Cynth\HeadPointerApp\HeadPointer\bin\Debug\net8.0-windows\HeadPointer.dll
+C:\Users\Cynth\HeadPointerApp\HeadPointer\bin\Debug\net8.0-windows\HeadPointer.pdb
+C:\Users\Cynth\HeadPointerApp\HeadPointer\obj\Debug\net8.0-windows\HeadPointer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cynth\HeadPointerApp\HeadPointer\obj\Debug\net8.0-windows\HeadPointer.AssemblyInfoInputs.cache
+C:\Users\Cynth\HeadPointerApp\HeadPointer\obj\Debug\net8.0-windows\HeadPointer.AssemblyInfo.cs
+C:\Users\Cynth\HeadPointerApp\HeadPointer\obj\Debug\net8.0-windows\HeadPointer.csproj.CoreCompileInputs.cache
+C:\Users\Cynth\HeadPointerApp\HeadPointer\obj\Debug\net8.0-windows\HeadPointer.sourcelink.json
+C:\Users\Cynth\HeadPointerApp\HeadPointer\obj\Debug\net8.0-windows\HeadPointer.dll
+C:\Users\Cynth\HeadPointerApp\HeadPointer\obj\Debug\net8.0-windows\refint\HeadPointer.dll
+C:\Users\Cynth\HeadPointerApp\HeadPointer\obj\Debug\net8.0-windows\HeadPointer.pdb
+C:\Users\Cynth\HeadPointerApp\HeadPointer\obj\Debug\net8.0-windows\HeadPointer.genruntimeconfig.cache
+C:\Users\Cynth\HeadPointerApp\HeadPointer\obj\Debug\net8.0-windows\ref\HeadPointer.dll
